@@ -1,4 +1,4 @@
-hdc2014-nodejs
+Front-End Developer Workflows
 ==============
 
 Sessions file and slides accompaning my talk at the 2014 AIM Heartland Developer Conference (http://www.heartlanddc.com/) in Omaha, NE.
